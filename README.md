@@ -1,0 +1,1 @@
+# Covert Semi-Grant-Free Transmission with Cooperative Jamming — simulation codeAuthors: Abdulrahman Ghandoura and Abdullah AlajmiRequirements: Python ≥ 3.9, numpy, scipy, matplotlib.  Random seeds are fixed.
